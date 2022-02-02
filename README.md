@@ -4,4 +4,4 @@ Level  : Beginner
 
 Device : Mobile
 
-https://ravichandran-05.github.io/timetable/
+https://ravichandran-05.github.io/Timetable-1/
